@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8be25b9c9baeca33",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b838ded0197b6c",
+        "type": "tabs",
+        "dimension": 59.85306828003457,
+        "children": [
+          {
+            "id": "e0d5ebc06e647ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/GitHub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "fa23f97a869b6568"
+          }
+        ]
+      },
+      {
+        "id": "010f07dd42d4e7f5",
+        "type": "tabs",
+        "dimension": 40.14693171996543,
+        "children": [
+          {
+            "id": "3d6d1c8a7b106a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/GitHub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "fa23f97a869b6568"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fe7050a355f7517",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce11a87d9ef02dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8018e1fd6db48b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49c3306ea7d41a48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "726e42625f1fb424",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "dd3303f2cff75aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "229749c819d43870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2482095fb56a5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub/GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1236c25e5c00931f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub/GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "645d6a03a12d0532",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "383a5ba268b4e4eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub/GitHub.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Create new canvas": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "e0d5ebc06e647ba4",
+  "lastOpenFiles": [
+    "GitHub/ANEXOS/007.jpg",
+    "GitHub/ANEXOS/006.jpg",
+    "GitHub/ANEXOS/005.jpg",
+    "GitHub/ANEXOS/004.jpg",
+    "GitHub/ANEXOS/Pasted image 20230711031154.png",
+    "GitHub/ANEXOS/003.jpg",
+    "GitHub/ANEXOS/002.jpg",
+    "GitHub/ANEXOS/002.jpg.crdownload",
+    "LaTeX/LaTeX.md",
+    "GitHub/GitHub.md",
+    "GitHub/ANEXOS/001.jpg",
+    "GitHub/ANEXOS/001 1.jpg",
+    "GitHub/ANEXOS",
+    "LaTeX",
+    "GitHub",
+    "ANEXOS/imagen007.jpg",
+    "ANEXOS/imagen006.jpg",
+    "ruta/a/la/imagen.png.md",
+    "ruta/a/la",
+    "ruta/a",
+    "ruta",
+    "Pas.md",
+    "numero001.jpg.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "$a+b+c=12$.md",
+    "2023-07-06.md",
+    "ANEXOS"
+  ]
+}
