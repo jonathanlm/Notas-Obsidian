@@ -52,3 +52,5 @@ Esto creará un nuevo repositorio Git en el directorio actual y debería resolve
 ![[007.jpg]]
 
 
+asdsadasdasdasdasd
+esta es la version 03
